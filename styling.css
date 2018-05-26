@@ -26,6 +26,7 @@ body
 	left:20%;
 	width:80%;
 	background:url("images/iceCream1.jpg");
+	border-bottom:2px solid black
 }
 li
 {
@@ -61,5 +62,15 @@ p
 	font-family:myFont;
 	text-transform:capitalize;
 	text-align:center;
+	top:100%
 	
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    list-style: none;
+}
+
